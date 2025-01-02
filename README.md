@@ -1,3 +1,4 @@
+- Most of the things here where made as part of education i was undertaking 
 - 👋 Hi, I’m @Edx-X11
 - 👀 I’m interested in all things Linux
 - 🌱 scripts
